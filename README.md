@@ -1,5 +1,5 @@
 # Bot para analisar ações na bolsa de valores
-Neste projeto, foi desenvolvido um bot para extrair informações sobre a ação que o usuário quer analisar. O bot foi desenolvido em Python utilizando a biblioteca de webscraping BeautifulSoap, no qual o site utilizado para extração de dados da ação foi o https://statusinvest.com.br/ . Basicamente na execução do bot, o usuário deverá informar a sigla da ação da bolsa de valores via terminal. Assim, o bot retornará informações preliminares da ação escolhida.
+Neste projeto, foi desenvolvido um bot para extrair informações sobre a ação que o usuário quer analisar. O bot foi desenvolvido em Python utilizando a biblioteca de webscraping BeautifulSoap, no qual o site utilizado para extração de dados da ação foi o https://statusinvest.com.br/ . Basicamente na execução do bot, o usuário deverá informar a sigla da ação da bolsa de valores via terminal. Assim, o bot retornará informações preliminares da ação escolhida.
 
 Um exemplo dessa aplicação utilizando a ação da CIELO, cujo código é ciel3. Segue o exemplo abaixo:
 
