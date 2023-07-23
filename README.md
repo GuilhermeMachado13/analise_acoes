@@ -13,10 +13,15 @@ ciel3
 
 
 Ação: CIEL3-CIELO
+
 Setor de Atuação: Financeiro e Outros
+
 Subsetor de Atuação: Serviços Financeiros Diversos
+
 Segmento de Atuação: Serviços Financeiros Diversos
+
 Valor da Cotação: R$ 5.14
+
 Valorização (12 meses): 63.17%
 
 
@@ -24,10 +29,17 @@ Valorização (12 meses): 63.17%
 
 
 Dividend Yield: 2.71%
+
 Dividendos Distribuidos este ano: R$ 0.1074
+
 DÍV.LÍQUIDA/EBITDA: 0.93
+
 LPA: 0.45
+
 P/L: 11.54
+
 P/VP: 1.32
+
 ROE: 11.45%
+
 ROIC: 8.48%
